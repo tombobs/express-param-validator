@@ -1,7 +1,7 @@
 {
   "name": "param-validator",
   "description": "Library that searches a controller file's comments for required params and returns a 400 with a list of missing params if they're not all supplied.",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "author": "Tom Roberts",
   "repository": "https://github.com/tombobs/express-param-validator",
   "dependencies": {
